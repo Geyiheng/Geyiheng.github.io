@@ -21,7 +21,6 @@
 **[NeurIPS 2025]** *Under Review*  
 **RoboTwin 2.0: Autonomous Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation**
 
-*Tianxing Chen, Zanxin Chen, Baijun Chen, Qiwei Liang, Zixuan Li, XianLiang Lin, **Yiheng Ge**, Zijian Cai, Zhenyu Gu, Weiliang Deng, Yibin Liu, Yubin Guo, Xuanbing Xie, Qiangyu Chen, Kailun Su, Tianling Xu, Guodong Liu, Mengkang Hu, Tian Nian, Huan-ang Gao, Yusen Qin, Kaixuan Wang, Zhixuan Liang, Xiaokang Yang, Ping Luo, Yao Mu*
 
 ## Internship
 
